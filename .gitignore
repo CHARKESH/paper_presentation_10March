@@ -1,0 +1,15 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Local dev server
+server.ps1
+
+# Node (if ever added)
+node_modules/
+.vercel/
